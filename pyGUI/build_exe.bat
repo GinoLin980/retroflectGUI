@@ -1,0 +1,1 @@
+pyinstaller -w --onefile --uac-admin -n "Ping.and.Retroflect.Utility" retroflect.py
